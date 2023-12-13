@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/proyecReact/static/css/main.56272af5.css",
+    "main.js": "/proyecReact/static/js/main.dfb9ebc5.js",
+    "static/js/787.c09143f3.chunk.js": "/proyecReact/static/js/787.c09143f3.chunk.js",
+    "static/media/BannerPresentacion.jpg": "/proyecReact/static/media/BannerPresentacion.ba757a4fec59a79b52b1.jpg",
+    "static/media/bannerPython.jpg": "/proyecReact/static/media/bannerPython.1c9d5cd98e277cb085b3.jpg",
+    "static/media/bannerCSharp.jpg": "/proyecReact/static/media/bannerCSharp.5bc84ea6f848f648ad3b.jpg",
+    "static/media/javaLogo.png": "/proyecReact/static/media/javaLogo.096b64bbce817699d535.png",
+    "static/media/Centra-No2-Bold.ttf": "/proyecReact/static/media/Centra-No2-Bold.48e33a55a4142e6e115a.ttf",
+    "static/media/Centra No2 Medium.ttf": "/proyecReact/static/media/Centra No2 Medium.b86cead53490db910934.ttf",
+    "static/media/Centra No2.ttf": "/proyecReact/static/media/Centra No2.b2bdf0ee70382dbce2a1.ttf",
+    "static/media/lengProgBanner.png": "/proyecReact/static/media/lengProgBanner.bf8575b278d9dcbbd35e.png",
+    "static/media/perf.jpg": "/proyecReact/static/media/perf.e82eae08309ef182f23a.jpg",
+    "static/media/javaBanner.jpg": "/proyecReact/static/media/javaBanner.d506a62a109d7291990a.jpg",
+    "static/media/logoPython.png": "/proyecReact/static/media/logoPython.b203ca00b1785dcf543c.png",
+    "static/media/revicons.eot": "/proyecReact/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/proyecReact/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/proyecReact/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/proyecReact/index.html",
+    "main.56272af5.css.map": "/proyecReact/static/css/main.56272af5.css.map",
+    "main.dfb9ebc5.js.map": "/proyecReact/static/js/main.dfb9ebc5.js.map",
+    "787.c09143f3.chunk.js.map": "/proyecReact/static/js/787.c09143f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56272af5.css",
+    "static/js/main.dfb9ebc5.js"
+  ]
+}
